@@ -1,0 +1,13 @@
+{
+  "name": "clientldapprocessor",
+  "version": "1.0.0",
+  "description": "createUserByCsvWebApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "pip install -r requirements.txt",
+    "start": "python index.py"
+  },
+  "author": "Julian Eduardo Arias Barrera",
+  "license": "ISC"
+}
